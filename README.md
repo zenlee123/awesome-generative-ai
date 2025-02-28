@@ -274,6 +274,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Graphic design
 
+- [PPT.AI](https://ppt.ai) - PPT.AI is a professional AI presentation maker, fast and free. It can create a professional PowerPoint presentation in just a few minutes. 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
